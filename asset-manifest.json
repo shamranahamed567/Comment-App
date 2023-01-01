@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Comment-app/static/css/main.073c9b0a.css",
+    "main.js": "/Comment-app/static/js/main.328a8d25.js",
+    "static/js/787.22a9768e.chunk.js": "/Comment-app/static/js/787.22a9768e.chunk.js",
+    "static/media/logo.svg": "/Comment-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Comment-app/index.html",
+    "main.073c9b0a.css.map": "/Comment-app/static/css/main.073c9b0a.css.map",
+    "main.328a8d25.js.map": "/Comment-app/static/js/main.328a8d25.js.map",
+    "787.22a9768e.chunk.js.map": "/Comment-app/static/js/787.22a9768e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.328a8d25.js"
+  ]
+}
