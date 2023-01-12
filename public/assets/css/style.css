@@ -33,7 +33,7 @@ body {
 
 .input-box {
   display: flex;
-  gap: 1.2rem;
+  gap: 1rem;
   justify-content: space-between;
   padding-bottom: 4.4rem;
   border-bottom: 1px solid #e5e5e5;
